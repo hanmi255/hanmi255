@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanmi255
-- 👀 I’m interested in coding ACG
+- 👀 I’m interested in coding and ACGN
 - 🌱 I’m currently learning C++ Qt UE5
 - 💞️ I’m looking to collaborate on someting you know
 - 📫 How to reach me?click these link
