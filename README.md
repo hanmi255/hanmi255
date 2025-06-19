@@ -7,4 +7,4 @@
 
 - <img src="/assets/bilibili.png" alt="哔哩哔哩"> **哔哩哔哩**: [点击这里访问我的哔哩哔哩空间](https://space.bilibili.com/377044135?spm_id_from=333.1007.0.0)
 
-- <img src="/assets/mg_club.png" alt="毛怪俱乐部"> **毛怪俱乐部**: [点击这里访问我的主页](https://2550505.com/space/10754)
+- <img src="/assets/mg_club.png" alt="毛怪俱乐部" width="5%"> **毛怪俱乐部**: [点击这里访问我的主页](https://2550505.com/space/10754)
