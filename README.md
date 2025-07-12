@@ -1,9 +1,12 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-- 👋 Hi, I'm @hanmi255
+# 👋 Hi, I'm @hanmi255
 - 👀 I'm interested in coding and ACGN
 - 🌱 I'm currently learning C++ C# Qt Godot
-- 📫 How to reach me? click these links
+
+## 📫 How to reach me? click these links
+
+### 📧 hanmi2550505@gmail.com
 
 - <img src="/assets/bilibili.png" alt="哔哩哔哩"> **哔哩哔哩**: [点击这里访问我的哔哩哔哩空间](https://space.bilibili.com/377044135?spm_id_from=333.1007.0.0)
 
