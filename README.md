@@ -1,8 +1,8 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 # 👋 Hi, I'm @hanmi255
-- 👀 I'm interested in coding and ACGN
-- 🌱 I'm currently learning C++ C# Qt Godot
+- 👀 I'm interested in **Coding** **ACGN** and **Game Dev**
+- 🌱 I'm currently learning C++ C# Godot Qt
 
 ## 📫 How to reach me? click these links
 
