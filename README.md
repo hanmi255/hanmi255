@@ -8,7 +8,9 @@
 
 ### 📧 hanmi2550505@gmail.com
 
-- <img src="https://github.com/hanmi255.png" alt="头像" width="5%"> **Blog Web**: [点击这里访问我的Blog Web](https://hanmi255.netlify.app/)
+- <img src="https://github.com/hanmi255.png" alt="个人网站" width="5%"> **Blog Web**: [点击这里访问我的Blog Web](https://hanmi255.netlify.app/)
+
+- <img src="/assets/icons8-itch.io-56.png" alt="itch.io" width="5%"> **itch.io**: : [点击这里访问我的Itch](https://hanmi255.itch.io/)
 
 - <img src="/assets/bilibili.png" alt="哔哩哔哩"> **哔哩哔哩**: [点击这里访问我的哔哩哔哩空间](https://space.bilibili.com/377044135?spm_id_from=333.1007.0.0)
 
