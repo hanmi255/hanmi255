@@ -4,7 +4,7 @@
 
 - 👀 I'm interested in **Coding** **ACGN** and **Game Dev**
   
-- 🌱 I'm currently learning C++ C# Godot Qt
+- 🌱 I'm currently learning C++ C# Godot Unity
 
 ## 📫 How to reach me? click these links
 
