@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm @hanmi255
 
-- 👀 I'm interested in **Coding** **ACGN** and **Game Dev**
+- 👀 I'm interested in **ACGN** and **Game Dev**
   
 - 🌱 I'm currently learning C++ C# Godot Unity
 
