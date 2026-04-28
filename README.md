@@ -1,16 +1,80 @@
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
-# 👋 Hi, I'm @hanmi255
+---
 
-- 👀 I'm interested in **ACGN** and **Game Dev**
-  
-- 🌱 I'm currently learning C++ C# Godot Unity
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="60%">
 
-## 📫 How to reach me? click these links
+## hanmi255
 
-### 📧 hanmi2550505@gmail.com
+Game developer. Systems programmer. ACGN enthusiast.
 
-- <img src="https://github.com/hanmi255.png" alt="blog" width="5%"> [Blog Web](https://hanmi255.netlify.app/)
-- <img src="/assets/icons8-itch.io-56.png" alt="itch.io" width="5%"> [Itch.io](https://hanmi255.itch.io/)
-- <img src="/assets/bilibili.png" alt="哔哩哔哩"> [哔哩哔哩](https://space.bilibili.com/377044135)
-- <img src="/assets/mg_club.png" alt="毛怪俱乐部" width="5%"> [毛怪俱乐部](https://2550505.com/space/10754)
+Working primarily in C++, C#, GDScript across game and AI projects.
+
+</td>
+<td valign="top" width="40%" align="right">
+
+<sub>STACK</sub>
+
+```
+C++  ·  C#  ·  GDScript  ·  JavaScript
+Godot Engine  ·  Unity  ·  SDL3  ·  Python
+```
+
+</td>
+</tr>
+</table>
+
+**Contact**
+
+<table border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td>
+  <a href="mailto:hanmi2550505@gmail.com">
+    <img src="https://github.com/hanmi255.png" width="20" height="20" style="border-radius:50%;vertical-align:middle;" />
+    &nbsp;hanmi2550505@gmail.com
+  </a>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+  <a href="https://hanmi255.netlify.app/">
+    <img src="https://github.com/hanmi255.png" width="20" height="20" style="border-radius:50%;vertical-align:middle;" />
+    &nbsp;Blog
+  </a>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+  <a href="https://hanmi255.itch.io/">
+    <img src="./assets/icons8-itch.io-28.png" width="20" height="20" style="vertical-align:middle;" />
+    &nbsp;Itch.io
+  </a>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+  <a href="https://space.bilibili.com/377044135">
+    <img src="./assets/bilibili.png" width="20" height="20" style="vertical-align:middle;" />
+    &nbsp;Bilibili
+  </a>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+  <a href="https://2550505.com/space/10754">
+    <img src="./assets/mg_club.png" width="20" height="20" style="vertical-align:middle;" />
+    &nbsp;MG Club
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanmi255/hanmi255/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanmi255/hanmi255/output/github-contribution-grid-snake-anthropic.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/hanmi255/hanmi255/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
