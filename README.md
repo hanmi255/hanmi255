@@ -32,18 +32,6 @@ Working primarily in C++, C#, GDScript across game and AI projects.
     &nbsp;Blog
   </a>
 </td>
-<td>
-  <a href="https://space.bilibili.com/377044135">
-    <img src="./assets/bilibili.png" width="20" height="20" style="vertical-align:middle;" />
-    &nbsp;Bilibili
-  </a>
-</td>
-<td>
-  <a href="https://2550505.com/space/10754">
-    <img src="./assets/mg_club.png" width="20" height="20" style="vertical-align:middle;" />
-    &nbsp;MG Club
-  </a>
-</td>
 </tr>
 </table>
 
