@@ -33,12 +33,6 @@ Working primarily in C++, C#, GDScript across game and AI projects.
   </a>
 </td>
 <td>
-  <a href="https://hanmi255.itch.io/">
-    <img src="./assets/icons8-itch.io-28.png" width="20" height="20" style="vertical-align:middle;" />
-    &nbsp;Itch.io
-  </a>
-</td>
-<td>
   <a href="https://space.bilibili.com/377044135">
     <img src="./assets/bilibili.png" width="20" height="20" style="vertical-align:middle;" />
     &nbsp;Bilibili
